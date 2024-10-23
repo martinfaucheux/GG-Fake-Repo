@@ -1,1 +1,1 @@
-GITLAB_TOKEN = "glpat-cTxjRuur3Tri5Qp2iFfx"
+GITLAB_TOKEN = "glpat-cTrjRuur3Tri5Qp2iFfx"
